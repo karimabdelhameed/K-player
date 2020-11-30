@@ -8,6 +8,35 @@
   "client": [
     {
       "client_info": {
+        "mobilesdk_app_id": "1:826656578219:android:5979462322f01c1a2c75ee",
+        "android_client_info": {
+          "package_name": "com.kagroup.kplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "826656578219-j2dt5m73eh9vgnhqv287mjj61q3rnn31.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKjXaM1rnke6wbXmoAVan56MJUaPy6-5w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "826656578219-j2dt5m73eh9vgnhqv287mjj61q3rnn31.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
         "mobilesdk_app_id": "1:826656578219:android:bfb805546fe8487c2c75ee",
         "android_client_info": {
           "package_name": "com.plcoding.spotifycloneyt"
